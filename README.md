@@ -1,9 +1,10 @@
 ### Twitter Clone
-- Ekran Görüntüsü
+
 ![](./public/twitter.gif)
 
-- Canlı Link
+# Link
 
+- https://my-tweet-theta.vercel.app/home
 ## Kullanılan Teknolojiler ve Kütüphaneler
 
 - **React.js**: Kullanıcı arayüzünü oluşturmak için kullanılan JavaScript kütüphanesi.
